@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../src/S_to_P_Converter.vhd" \
+"../../../../../sim/Shift_reg_TB.vhd" \
+
+# Do not sort compile order
+nosort
