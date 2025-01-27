@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Sun Jan 26 15:49:36 2025
+# Process ID: 22724
+# Current directory: C:/Users/Monica Pedro/Projects_Repo/Projects/Final_Project/Serial-to-Parallel-Converter
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent15880 C:\Users\Monica Pedro\Projects_Repo\Projects\Final_Project\Serial-to-Parallel-Converter\Serial-to-Parallel-Converter.xpr
+# Log file: C:/Users/Monica Pedro/Projects_Repo/Projects/Final_Project/Serial-to-Parallel-Converter/vivado.log
+# Journal file: C:/Users/Monica Pedro/Projects_Repo/Projects/Final_Project/Serial-to-Parallel-Converter\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Monica Pedro/Projects_Repo/Projects/Final_Project/Serial-to-Parallel-Converter/Serial-to-Parallel-Converter.xpr}
+update_compile_order -fileset sources_1

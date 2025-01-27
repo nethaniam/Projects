@@ -1,0 +1,1 @@
+-wto "67cc62519f1d4b8193b0a6bfb2b5167d" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "secureip" --snapshot "S_to_P_Converter_TB_func_synth" "xil_defaultlib.S_to_P_Converter_TB" "xil_defaultlib.glbl" -log "elaborate.log" 
