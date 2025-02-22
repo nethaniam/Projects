@@ -13,9 +13,14 @@ This project simulates a shell using code from [Brennan's GitHub](https://brenna
 ## FUNCTIONS:
 
 **lsh_change_user**
-This function simulates changing between users. The actual concept of changing users within a shell is more complex (requires root user sudo commands). This function does not change users but makes it look as though it does. It requires an input of the user's "name" after lsh_change_user to work. It then prints a string that shows the updated user name (printf("%s@Computer-1:%s$ ", user, folder);).
+This function simulates changing between users. The actual concept of changing users within a shell is more complex (requires root user sudo commands). This function does not change users but makes it look as though it does. It requires an input of the user's "name" after lsh_change_user to work. It then prints a string that shows the updated user name (printf("%s@Computer-1:%s$ ", user, folder);).\
 **lsh_mkdir**
+
 **lsh_touch**
+
 **lsh_delete**
+
 **lsh_open**
+
 **lsh_ls**
+
