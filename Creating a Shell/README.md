@@ -5,7 +5,8 @@ This project simulates a shell using code from [Brennan's GitHub](https://brenna
 - lsh_touch
 - lsh_delete
 - lsh_open
-- lsh_ls\
+- lsh_ls
+  
 **NOTE: The shell will have a HOME directory wherever it is placed.**
 # TO-DO LIST:
 - [] Add more functions to the shell
