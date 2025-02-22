@@ -1,0 +1,7 @@
+Running: xsim.dir/S_to_P_Converter_TB_func_synth/xsimk.exe -simmode gui -wdb S_to_P_Converter_TB_func_synth.wdb -simrunnum 0 -socket 50146
+Design successfully loaded
+Design Loading Memory Usage: 9504 KB (Peak: 9504 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 10240 KB (Peak: 10240 KB)
+Simulation CPU Usage: 15 ms

@@ -1,0 +1,4 @@
+Running: xsim.dir/S_to_P_Converter_behav/xsimk.exe -simmode gui -wdb S_to_P_Converter_behav.wdb -simrunnum 0 -socket 64365
+Design successfully loaded
+Design Loading Memory Usage: 8436 KB (Peak: 8436 KB)
+Design Loading CPU Usage: 46 ms
